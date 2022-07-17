@@ -1,30 +1,9 @@
-# TypeScript Sapphire Bot Template
+# RoleManager
 
-This is a basic setup of a Discord bot using the [Sapphire Framework][sapphire], written in TypeScript.
+RoleManager is an advanced and powerful role management bot.
 
-## How do I use it?
+### Need Help?
+If you don't understand something, discovered a bug, or are having issues, please join our Discord server for support and general chit chat with our community [here](https://discord.gg/XtX9wx3qre)!
 
-### Prerequisite
-
-```sh
-npm install
-```
-
-### Development
-
-This example can be run with `tsc-watch` to watch the files and automatically restart your bot.
-
-```sh
-npm run watch:start
-```
-
-### Production
-
-You can also run the bot with `npm dev`, this will first build your code and then run `node ./dist/index.js`. But this is not the recommended way to run a bot in production.
-
-## License
-
-Dedicated to the public domain via the [Unlicense], courtesy of the Sapphire Community and it's contributors.
-
-[Sapphire]: https://github.com/sapphiredev/framework
-[Unlicense]: https://github.com/sapphiredev/examples/blob/main/LICENSE.md
+### Commands
+RoleManager is a WIP. Commands coming soon.
